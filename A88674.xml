@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Sir Marmaduke Langdale Knight, Colonel-General: and of the gentlemen, and other loyall subjects now in action for His Majesties service in the northern parts.</title>
+            <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88674</idno>
+            <idno type="STC">Wing L379</idno>
+            <idno type="STC">Thomason E446_17</idno>
+            <idno type="STC">ESTC R204829</idno>
+            <idno type="EEBO-CITATION">99864292</idno>
+            <idno type="PROQUEST">99864292</idno>
+            <idno type="VID">161781</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161781)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Sir Marmaduke Langdale Knight, Colonel-General: and of the gentlemen, and other loyall subjects now in action for His Majesties service in the northern parts.</title>
+                  <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A Royalist manifesto.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Causes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161781:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 123 -->
+            <p>THE DECLARATION OF Sir <hi>MARMAD<g ref="char:V">Ʋ</g>KE LANGDALE</hi> KNIGHT, Colonel-General:</p>
+            <p>AND Of the Gentlemen, and other loy<g ref="char:EOLhyphen"/>all Subjects now in Action for His Majeſties Service in the Northern Parts.</p>
+            <p>Printed in the Yeer 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161781:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 119 -->
+            <pb n="3" facs="tcp:161781:2"/>
+            <!-- PDF PAGE 119 -->
+            <head>THE DECLARATION OF Sir <hi>Marmaduke Langdale</hi> Knight, Golonel-Generall;</head>
+            <head type="sub">And of the Gentlemen, and other Loyall Subjects now in action for His Maje<g ref="char:EOLhyphen"/>ſties Service in the Northern parts.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas we are entered into this preſent Engagement, that our real intentions may not be miſ-judged, but the integri<g ref="char:EOLhyphen"/>ty and candor of them may be apparent to the whole Kingdom, we have thought it neceſſary to publiſh this Decla<g ref="char:EOLhyphen"/>ration, together with the reaſons and grounds of our preſent Actions, and what we onely aim at and expect from our endeavours here<g ref="char:EOLhyphen"/>in. And firſt we ſhall begin with the true Motives that have put us upon this War; which are, That after the Forces raiſed by
+<pb n="4" facs="tcp:161781:3"/>
+               <!-- PDF PAGE 120 -->his Majeſties Commiſſions were disbanded, and the Scotch Army quietly marched away into their own Kingdom, and when it might juſtly have been expected that the two Hou<g ref="char:EOLhyphen"/>ſes of Parliament ſhould have proceeded ac<g ref="char:EOLhyphen"/>cording to their many Declarations towards ſetling Religion, and a ſound and wel-grounded Peace, reſtoring the King's Ma<g ref="char:EOLhyphen"/>jeſty to his Throne, juſt Rights, and his full freedom, and to the glory and ſplendor of his royall Anceſtors; that the Queen and Prince might have been invited to return, and all Armies disbanded, the people eaſed of Exciſe, Free-quarter, and all intolerable burthens and preſſures: Contrary to their expectations, the Schiſmatical Army under the Command of Sir <hi>Thomas Fairfax</hi> firſt re<g ref="char:EOLhyphen"/>fuſed to disband, ſeiſed on the Perſon of his Majeſty againſt his will, carryed him up and down, until he was forced to fly for his life, and ſince that time his ſacred Perſon hath been barbarouſly and tyranouſly impriſoned, and ſuch Bils and Propoſitions offered unto him, as would pull down the glory of the Crown, and leave the Subjects ſo aſhamed as
+<pb n="5" facs="tcp:161781:3"/>
+               <!-- PDF PAGE 120 -->will render us a Nation ſervile, and ſcorn of the world; and to theſe Propoſitions the Kingdom of <hi>Scotland</hi> were ſo far from giving their conſent, that before the ſending of them they made their Proteſtation againſt them: which this whole Kingdom hath reaſon to look upon as an action that manifeſted their eminent Loyalty towards his Majeſty, and that had right regard to the happineſſe and peace of this Kingdom. His Majeſty is, and long hath been a cloſe priſoner, and inhu<g ref="char:EOLhyphen"/>manely denyed that freedom which is al<g ref="char:EOLhyphen"/>lowed to moſt notorious Murtherers and Malefactors, the comfort of his Royal Con<g ref="char:EOLhyphen"/>ſort and Children; and without the aſſi<g ref="char:EOLhyphen"/>ſtance of his loyal Subjects, deſtitute of any hope of enlargement or relief; and certainly it ſhould inflame our Loyalties herein, know<g ref="char:EOLhyphen"/>ing what mean reſpects, nay barbarous vio<g ref="char:EOLhyphen"/>lence hath been offered to his ſacred Perſon by the Governour of the Iſle of <hi>Wight;</hi> and yet we hear not that he hath had any check for it, but muſt beleeve we are well dealt with that he hath not received publick thanks for it. And doubtleſs theſe men have
+<pb n="6" facs="tcp:161781:4"/>
+               <!-- PDF PAGE 121 -->dealt the ſame meaſure to the whole King<g ref="char:EOLhyphen"/>dom, there being neither Juſtice nor Law found amongſt us; but all our lives and e<g ref="char:EOLhyphen"/>ſtates being in the Arbitrary power of ſuch Judicatures and Committees as have palpa<g ref="char:EOLhyphen"/>bly intended the improving of their fortunes and lives, by unlawfull power to tyranize over us. And that which they have moſt-pretended to be a <hi>Noli me tangere,</hi> Priviledge of Parliament, they have ſo much abaſed and ſuffered to be violated, as no time or ſtory of the Nation can parallel.</p>
+            <p>Having thus briefly laid down theſe our unſupportable ſufferings, which are known to be apparently true, and much more nume<g ref="char:EOLhyphen"/>rous then here we expreſſe them; we ſhall now offer what may be Remedies to theſe great evils; and what may re-inſtate us in that happineſſe and glory that we have formerly injoyed, and for which we declare that we are entred into this preſent Engagement.</p>
+            <list>
+               <item>1. <hi>That his Majeſty may be reſtored to this Ancient Royal Rights.</hi>
+               </item>
+               <item>2. <hi>That we may enjoy a free Parliament, to ſettle all differences in Church and Common<g ref="char:EOLhyphen"/>wealth.</hi>
+               </item>
+               <item>
+                  <pb n="7" facs="tcp:161781:4"/>
+                  <!-- PDF PAGE 121 -->
+3. <hi>That all Armies may be disbanded, the people eaſed of Exciſe, Free-quarter, and all other burthens and preſſures.</hi>
+               </item>
+               <item>4. <hi>That the known Laws of the Land may freely flouriſh amongst us, which are the onely ſecurity of the Subjects Propriety.</hi>
+               </item>
+               <item>5. <hi>That the <g ref="char:V">Ʋ</g>nion betwixt the Kingdoms of</hi> England <hi>and</hi> Scotland <hi>may be preſerved ac<g ref="char:EOLhyphen"/>cording to the Act of Pacification.</hi>
+               </item>
+            </list>
+            <p>Theſe are the things which we ſhall pur<g ref="char:EOLhyphen"/>fue, and for this end we deſire the aſſiſtance of all our fellow Subjects: And we profeſſe that we ſhall make no diſtinction of perſons, in relation to the former differences betwixt the King and the two Houſes, but ſhall cor<g ref="char:EOLhyphen"/>dially and cheerfully imbrace their joyning with us in the proſecution of theſe ends, and ſhall endeavour the payment of all ſuch Ar<g ref="char:EOLhyphen"/>rears as are due to all ſuch Officers and Soul<g ref="char:EOLhyphen"/>diers on either ſide as ſhall joyn with us; and an Act of Oblivion for all acts done ſince the beginning of the Parliament to all parties.</p>
+            <p>Laſtly, We ſhall give juſt ſatisfaction to all our fellow-Subjects, that we take not up arms without the Authority of Law; for we
+<pb n="8" facs="tcp:161781:5"/>
+               <!-- PDF PAGE 122 -->have derived all our Commiſſions from his Highneſs the Prince of <hi>Wales,</hi> &amp;c. And we ſhall manifeſt to all the world, that all our actions ſhall aim at the Peace and Happineſs of this miſerable diſtracted Kingdom; and that in proſecution of this War we ſhall ſe<g ref="char:EOLhyphen"/>verely puniſh all under our Command that ſhall uſe any plunder, or offer any violence to thoſe that give us their aſſiſtance for ſo pious and juſt a work. And we hope, that poſſeſsing our ſelves of the Towns of <hi>Bar<g ref="char:EOLhyphen"/>wick</hi> and <hi>Carlile</hi> will be thought very juſt and neceſſary, when we do upon great cer<g ref="char:EOLhyphen"/>certainty and aſſurance let the Kingdom know, that if our Forces had not ſurprized thoſe Towns at that inſtant of time, they would have been immediately poſſeſſed by thoſe that are the troublers of the Kingdoms Peace and Happineſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
